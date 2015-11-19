@@ -1,3 +1,1 @@
-# Skeletons
-Final Website
-Readme
+#Skeletonfinal.github.io
