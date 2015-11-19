@@ -1,3 +1,0 @@
-# Skeletons
-Final Website
-finalwebsite
